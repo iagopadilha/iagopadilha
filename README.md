@@ -1,12 +1,15 @@
+Claro, vou ajustar conforme solicitado. Aqui está o README atualizado:
+
+```markdown
 ### Olá eu sou o Iago Boardman Padilha 👋
 
-US: <br>
+**US:** <br>
 
 🔭 Finishing my IT Technician degree at Instituto Ivoti, currently studying Python and Next.js. <br>
 🌱 I’m currently in the third year of high school and in the third year of the IT technician program. <br>
 ⚡ Proficient in C, Java, JavaScript, C#, Android Studio, Next.js, TypeScript, PHP, MySQL, HTML, and CSS. Actively seeking job opportunities! <br> <br>
 
-BR: <br>
+**BR:** <br>
 
 🔭 Concluindo meu curso Técnico em Informática no Instituto Ivoti, atualmente estudando Python e Next.js. <br>
 🌱 Atualmente estou no terceiro ano do ensino médio e no terceiro ano do curso técnico em informática. <br>
@@ -16,9 +19,7 @@ BR: <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iago_boardy/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-boardman-padilha-057aab285/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/boardy)
-[![Workana](https://img.shields.io/badge/Workana-35A7FF?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/freelancer/abcb2782fc93408dc7fda61a49bb6e3e)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagogol2006@gmail.com)
 
 ### Technologies and Tools
 
@@ -38,3 +39,6 @@ BR: <br>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Boardy&layout=compact)
+```
+
+As mudanças incluem a remoção do Discord e Workana, e a adição do Gmail com o link de mailto para seu e-mail.
