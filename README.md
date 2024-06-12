@@ -1,6 +1,3 @@
-Claro, vou ajustar conforme solicitado. Aqui está o README atualizado:
-
-```markdown
 ### Olá eu sou o Iago Boardman Padilha 👋
 
 **US:** <br>
@@ -39,6 +36,3 @@ Claro, vou ajustar conforme solicitado. Aqui está o README atualizado:
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Boardy&layout=compact)
-```
-
-As mudanças incluem a remoção do Discord e Workana, e a adição do Gmail com o link de mailto para seu e-mail.
