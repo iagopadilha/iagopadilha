@@ -4,7 +4,7 @@
 
 🔭 Finishing my IT Technician degree at Instituto Ivoti, currently studying Python and Next.js. <br>
 🌱 I’m currently in the third year of High School and in the third year of the IT Technician Program. <br>
-⚡ Proficient in C, Java, JavaScript, C#, Android Studio, Next.js, TypeScript, PHP, MySQL, HTML, and CSS. Actively seeking job opportunities! <br> <br>
+⚡ I have knowledge in C, Java, JavaScript, C#, Android Studio, Next.js, TypeScript, PHP, MySQL, HTML, and CSS. Actively seeking job opportunities! <br> <br>
 
 **BR:** <br>
 
