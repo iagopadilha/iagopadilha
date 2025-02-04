@@ -4,39 +4,32 @@
 <h1 align="center">Iago Boardman Padilha</h1>
 
   <p align="center">
-    Living on coffee and code ☕🇧🇷 
+   ☕ Living on coffee and code ☕ 
     <br />
     <br />
     <br />
   </p>
   
-## ```- about me```
+## **- about me**
 
-- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 19 years old. 
-- 🇧🇷 I live in the south of Brazil. I love to drink our native drink [chimarrão](https://pt.wikipedia.org/wiki/Chimarr%C3%A3o).
-- ❄️ I love cold, like yooo it is so good to code wrapped in a duvet.
-- 🔮 I am a Mono Veigar, even have a [tattoo of him](https://i.imgur.com/dz6HMid.png) 
+- 👋 My name is Iago Boardman Padilha, I'm 18 years old.  
+- 🌍 I live in Rio Grande do Sul, Brazil.  
+- 🎮 I love gaming and reading mangas, all while enjoying a good cup of coffee.  
+- 💻 I'm doing my internship at [iData 360](https://www.linkedin.com/company/idata-software/) as the final stage of my IT Technician course.
+- 🎓 I’ve just started studying Software Engineering at Uniasselvi.
 
-## ```$ cd ~/repos```
 
-- 👑 My main project is [MenheraBot](https://github.com/MenheraBot).
-- 🥰 I love backend, so most of my [projects](https://github.com/ySnoopyDogy?tab=repositories) are backend, but not only.
+## ```- projects```
 
-## ```$ cat skills.txt```
+- 🌟 My biggest project is a [Florybal Ecommerce](https://github.com/Iago-Boardy/m-saas-e-commerce-florybal).  
+- 💡 Check out my [projects](https://github.com/Iago-Boardy?tab=repositories)!
+  
 
-- 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.
-- ✨ I've been using TypeScript for the last 2 years, always trying to do it with the best practices.
-- 📞 My mom says that I am very communicative. 😆
-- 🗃 I have experience using MongoDB, PostgreSQL, Redis, and more! Come check my [main project](https://github.com/MenheraBot) for more
+## ```- skills```
 
-## ```$ ssh root@future.interests ```
+- 🗃 I have experience using C#, MySql, Next.js and Java!
 
-- 🍧 I wanna use Rust in a near future.
-- 🔐 I really want to get better at testing software.
-- 💵 ~~Get Hired 🚀~~ Working 💪
 
-## ```$ curl http://contact.me ```
+## ```- contact ```
 
-- 📬 You can send me an Email: [contact@luancaliel.dev](mailto:contact@luancaliel.dev)
-- 🐦 Here is my Twitter [Luxanna_Dev](https://twitter.com/Luxanna_Dev)
-- 🖤 What about Discord? [@ysnoopydogy](https://discord.com/invite/fZMdQbA)
+- 📧 You can send me an email: [iagogol2006@gmail.com](mailto:iagogol2006@gmail.com)
