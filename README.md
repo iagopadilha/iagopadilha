@@ -15,7 +15,7 @@
 - 👋 My name is Iago Boardman Padilha, I'm 18 years old.  
 - 🌍 I live in Rio Grande do Sul, Brazil.  
 - 🎮 I love gaming and reading mangas, all while enjoying a good cup of coffee.  
-- 💻 I'm doing my internship at [iData 360](https://www.linkedin.com/company/idata-software/) as the final stage of my IT Technician course.
+- 💻 I'm currently working at [iData 360](https://www.linkedin.com/company/idata-software/) as a junior software developer.
 - 🎓  I’ve just started my Software Engineering degree at Uniasselvi.
 
 
