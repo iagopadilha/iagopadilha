@@ -27,7 +27,7 @@
 
 ## ```- skills```
 
-- 🗃 I have experience using C#, MySql, Next.js and Java!
+- 🗃 I have experience using C#, MySql, React.js and Java!
 
 
 ## ```- contact ```
