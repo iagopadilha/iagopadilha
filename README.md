@@ -28,6 +28,7 @@
 ## ```- skills```
 
 - 🗃 I have experience using C#, MySql, React.js and Java!
+- 💬 I'm mainly focusing on the backend development with .NET and DDD architecture.
 
 
 ## ```- contact ```
