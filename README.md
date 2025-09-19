@@ -12,7 +12,7 @@
   
 ## ```- about me```
 
-- 👋 My name is Iago Boardman Padilha, I'm 18 years old.  
+- 👋 My name is Iago Boardman Padilha, I'm 19 years old.  
 - 🌍 I live in Rio Grande do Sul, Brazil.  
 - 🎮 I love gaming and reading mangas, all while enjoying a good cup of coffee.  
 - 💻 I'm currently working at [iData 360](https://www.linkedin.com/company/idata-software/) as a junior software developer.
@@ -28,7 +28,7 @@
 ## ```- skills```
 
 - 🗃 I have experience using C#, MySql, React.js and Java!
-- 💬 I'm mainly focusing on the backend development with .NET and DDD architecture.
+- 💬 I'm mainly focusing on the backend development with .NET and DDD.
 
 
 ## ```- contact ```
