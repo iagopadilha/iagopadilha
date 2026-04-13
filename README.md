@@ -24,7 +24,7 @@
 - 🔄 **Methodologies:** Agile (Scrum) · Waterfall · Clean Code · Git Flow
 - 🗄️ **Databases:** MySQL · SQL · Fluent API · Debezium (CDC) · Apache Kafka (fundamentals)
 - 📊 **Observability:** Prometheus · Grafana
-- 🤖 **AI & Automation:** AI Integration · OCR · Workflow Automation
+- 🤖 **AI & Automation:** AI Integration · Workflow Automation · RPI
 
 ## ```- projects```
 - 🌟 My biggest project is a [Florybal Ecommerce](https://github.com/Iago-Boardy/m-saas-e-commerce-florybal).
