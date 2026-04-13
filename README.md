@@ -19,7 +19,7 @@
 ## ```- skills```
 - ⚙️ **Backend:** C# · ASP.NET Core · Node.js · NestJS · Entity Framework Core · REST API Design · Web Scraping
 - 🎨 **Frontend:** React.js · TypeScript · React Query · Axios · Zod · React Hook Form · Shadcn UI
-- 🏗️ **Architecture:** DDD · Clean Architecture · SOLID · TDD · Spec-Driven Design · Microservices · Monorepo
+- 🏗️ **Architecture:** DDD · Clean Architecture · Onion Architecture · Ports and Adapters Architecture · SOLID · TDD · Spec-Driven Design · Microservices · Monorepo
 - ☁️ **Cloud & DevOps:** Docker · Jenkins · VPS (Linux/Nginx) · AWS S3 · MinIO · Kubernetes (basics) · CI/CD
 - 🔄 **Methodologies:** Agile (Scrum) · Waterfall · Clean Code · Git Flow
 - 🗄️ **Databases:** MySQL · SQL · Fluent API · Debezium (CDC) · Apache Kafka (fundamentals)
