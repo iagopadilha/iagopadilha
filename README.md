@@ -27,8 +27,7 @@
 - 🤖 **AI & Automation:** AI Integration · Workflow Automation · RPI
 
 ## ```- projects```
-- 🌟 My biggest project is a [Florybal Ecommerce](https://github.com/Iago-Boardy/m-saas-e-commerce-florybal).
-- 💡 Check out my [projects](https://github.com/Iago-Boardy?tab=repositories)!
+- 💡 Check out some of my [projects](https://github.com/Iago-Boardy?tab=repositories)!
 
 ## ```- contact```
 - 📧 Email: [iagopadilhadev@gmail.com](mailto:iagopadilhadev@gmail.com)
