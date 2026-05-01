@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFwhIPDvlDYsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348581411?e=1776902400&v=beta&t=kPjrKtPmgzEbCdC3u-g366XUoFBKu6uClRrIPOUCYoA">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFwhIPDvlDYsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348581411?e=1779321600&v=beta&t=DQjsCGKRp3Ra92YvBuEHQmehWlyksf_oAoVZ4W-rx0I">
 </p>
 <h1 align="center">Iago Boardman Padilha</h1>
   <p align="center">
@@ -13,7 +13,7 @@
 - 👋 My name is Iago Boardman Padilha, I'm 19 years old.
 - 🌍 I live in Rio Grande do Sul, Brazil.
 - 🎮 I love gaming and reading mangas, all while enjoying a good cup of coffee.
-- 💻 I'm currently working at [iData 360](https://www.linkedin.com/company/idata-software/) as a Software Developer.
+- 💻 I'm currently working at [iData 360](https://www.linkedin.com/company/idata-software/) as a Mid-Level Software Developer.
 - 🎓 Studying Software Engineering at Uniasselvi.
 
 ## ```- skills```
