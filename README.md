@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFwhIPDvlDYsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348581411?e=1779321600&v=beta&t=DQjsCGKRp3Ra92YvBuEHQmehWlyksf_oAoVZ4W-rx0I">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFwhIPDvlDYsw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719346987802?e=1783555200&v=beta&t=HCnVpbbh5wvYgxQnkmHCWjhgTzD-r7GmQPLnoFR-7LM">
 </p>
 <h1 align="center">Iago Boardman Padilha</h1>
-  <p align="center">
-   ☕ Living on coffee and code ☕ 
-    <br />
-    <br />
-    <br />
-  </p>
+<p align="center">
+  ☕ Living on coffee and code ☕
+  <br />
+  <br />
+  <br />
+</p>
 
 ## ```- about me```
 - 👋 My name is Iago Boardman Padilha, I'm 19 years old.
@@ -17,14 +17,14 @@
 - 🎓 Studying Software Engineering at Uniasselvi.
 
 ## ```- skills```
-- ⚙️ **Backend:** C# · ASP.NET Core · Node.js · NestJS · Entity Framework Core · REST API Design · Web Scraping
+- ⚙️ **Backend:** C# · ASP.NET Core · Node.js · NestJS · Entity Framework Core · REST API Design
 - 🎨 **Frontend:** React.js · TypeScript · React Query · Axios · Zod · React Hook Form · Shadcn UI
-- 🏗️ **Architecture:** DDD · Clean Architecture · Onion Architecture · Ports and Adapters Architecture · SOLID · TDD · Spec-Driven Design · Microservices · Monorepo
-- ☁️ **Cloud & DevOps:** Docker · Jenkins · VPS (Linux/Nginx) · AWS S3 · MinIO · Kubernetes (basics) · CI/CD
-- 🔄 **Methodologies:** Agile (Scrum) · Waterfall · Clean Code · Git Flow
+- 🏗️ **Architecture:** DDD · Clean Architecture · Onion Architecture · Ports and Adapters · SOLID · TDD · Spec-Driven Design · Microservices · Monorepo
+- 🤖 **AI & Agents:** Agentic AI · RAG · Model Context Protocol (MCP) · Multi-agent Systems · Prompt Engineering · AI Workflow Automation
+- ☁️ **Cloud & DevOps:** Docker · Jenkins · VPS (Linux/Nginx) · AWS (EC2 · ECS · ECR · SES · Route 53 · CodePipeline) · MinIO · Kubernetes (basics) · CI/CD
 - 🗄️ **Databases:** MySQL · SQL · Fluent API · Debezium (CDC) · Apache Kafka (fundamentals)
 - 📊 **Observability:** Prometheus · Grafana
-- 🤖 **AI & Automation:** AI Integration · Workflow Automation · RPI
+- 🔄 **Methodologies:** Agile (Scrum) · Clean Code · Git Flow
 
 ## ```- projects```
 - 💡 Check out some of my [projects](https://github.com/Iago-Boardy?tab=repositories)!
