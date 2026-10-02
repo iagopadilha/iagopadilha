@@ -10,7 +10,7 @@
 </p>
 
 ## ```- about me```
-- 👋 My name is Iago Boardman Padilha, I'm 19 years old.
+- 👋 My name is Iago Boardman Padilha, I'm 20 years old.
 - 🌍 I live in Rio Grande do Sul, Brazil.
 - 🎮 I love gaming and reading mangas, all while enjoying a good cup of coffee.
 - 💻 I'm currently working at [iData 360](https://www.linkedin.com/company/idata-software/) as a Mid-Level Software Developer.
