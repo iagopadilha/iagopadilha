@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1lO2D9GNmOTWLrk_HZR_vT_SdmMBn7Xlx/view?usp=sharing">
+<img src="https://360.idata.com.br/arquivos/public/bkImgLargeWidth.jpg">
 </p>
 <h1 align="center">Iago Boardman Padilha</h1>
 <p align="center">
